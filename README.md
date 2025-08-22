@@ -15,8 +15,7 @@ It extracts text, builds embeddings, and uses **Google Gemini** to provide conte
 
 ---
 
-##⚡ Tech Stack
-
+##⚡ **Tech Stack**
 ⦁	Python 3.9+
 ⦁	Streamlit – UI framework
 ⦁	LangChain – Orchestration
