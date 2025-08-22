@@ -16,13 +16,13 @@ It extracts text, builds embeddings, and uses **Google Gemini** to provide conte
 ---
 
 ##⚡ **Tech Stack**
-⦁	Python 3.9+
-⦁	Streamlit – UI framework
-⦁	LangChain – Orchestration
-⦁	FAISS – Vector database
-⦁	HuggingFace BGE – Embeddings
-⦁	Google Gemini – LLM for Q&A
-⦁	pytesseract + pdf2image – OCR for scanned PDFs
+⦁	Python 3.9+.
+⦁	Streamlit – UI framework.
+⦁	LangChain – Orchestration.
+⦁	FAISS – Vector database.
+⦁	HuggingFace BGE – Embeddings.
+⦁	Google Gemini – LLM for Q&A.
+⦁	pytesseract + pdf2image – OCR for scanned PDFs.
 
 ---
 
