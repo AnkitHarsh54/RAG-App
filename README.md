@@ -1,4 +1,4 @@
-# 📄 RAG Document Q&A App
+# 📄 Gemini RAG Document Q&A App
 
 This project is a **Streamlit-based RAG (Retrieval-Augmented Generation) application** that allows you to upload PDF or DOCX files and ask natural language questions about their content.  
 It extracts text, builds embeddings, and uses **Google Gemini** to provide context-aware answers.  
@@ -17,17 +17,18 @@ It extracts text, builds embeddings, and uses **Google Gemini** to provide conte
 
 ##⚡ Tech Stack
 
--Python 3.9+
--Streamlit – UI framework
--LangChain – Orchestration
--FAISS – Vector database
--HuggingFace BGE – Embeddings
--Google Gemini – LLM for Q&A
--pytesseract + pdf2image – OCR for scanned PDFs
+⦁	Python 3.9+
+⦁	Streamlit – UI framework
+⦁	LangChain – Orchestration
+⦁	FAISS – Vector database
+⦁	HuggingFace BGE – Embeddings
+⦁	Google Gemini – LLM for Q&A
+⦁	pytesseract + pdf2image – OCR for scanned PDFs
 
 ---
 
 ## Screenshorts
+
 
 <img width="975" height="589" alt="image" src="https://github.com/user-attachments/assets/73a6d197-df92-4a7b-ba8b-6f7c72aefd69" />
 
