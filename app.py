@@ -62,7 +62,7 @@ def generate_response(db, query):
         ("human", "{question}"),
     ])
     
-    model = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0.2)
+    model = ChatGoogleGenerativeAI(model="gemini-1.5-pro", temperature=0.2)
     chain = prompt | model
     
     response = chain.invoke({
